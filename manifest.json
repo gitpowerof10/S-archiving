@@ -1,0 +1,20 @@
+{
+  "short_name": "Keepvid",
+  "name": "Keepvid Youtube Downloader",
+  "icons": [
+    {
+      "src": "/img/keepvid-download-logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/keepvid-download-logo.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ],
+  "start_url": "/?src=a2hs",
+  "background_color": "#32325d",
+  "display": "fullscreen",
+  "theme_color": "white"
+}
