@@ -1,3 +1,4 @@
-Manifest {
-Background="1234"
+{
+  "private": true,
+  "workspaces": ["sdk", "turbo-cdn", "turbo-registry-sync", "turbo-resolver"]
 }
